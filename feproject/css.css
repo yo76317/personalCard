@@ -1,8 +1,9 @@
-body{font-family:"Microsoft JhengHei";}
+body{font-family:"Microsoft JhengHei";
+height:2000px;}
 
 .bodyh{height:1500px;}
 
-.icon30{font-size:30px;}
+.icon10{font-size:80%;}
 
 .box{border-radius:10px;
 margin-bottom:10px;
